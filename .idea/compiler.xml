@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="redisDistributelock" target="1.8" />
+      <module name="redisDistributelock" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
